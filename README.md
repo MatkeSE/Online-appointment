@@ -7,7 +7,7 @@ Front-end: Bootstrap
 
 # What I Learned 
 -Principles of Web Development <br>
--Connecting database with Java <br>
+-Connecting database with PHP <br>
 -CRUD operations <br>
--ArrayLists <br>
+-Laravel Framework <br>
 & much more
