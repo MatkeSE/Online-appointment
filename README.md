@@ -2,7 +2,7 @@
 Full-stack web app, that allows patients to make online reservation for health examinations.
 
 Back-end: PHP with Laravel framework, MariaDB
-Front-end: HTML,CSS, Bootstrap
+<br>Front-end: HTML,CSS, Bootstrap
 
 Roles:<br>
 1.Admin<br>
