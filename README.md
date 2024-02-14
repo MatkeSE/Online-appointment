@@ -10,7 +10,7 @@ After a successful login, the admin is responsible for accepting/rejecting the s
 <br>
 2.Registered User
 <br>
-If the appointment is made when the user is logged in, his id is remembered in the database and the logged-in user can check whether the status of his review has been approved or accepted by the admin.
+If the appointment is made when the user is logged in, his id is remembered in the database and the logged-in user can check whether the status of his request for appointment has been approved or rejected by the admin.
 
 
 # What I Learned 
